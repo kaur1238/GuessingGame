@@ -1,0 +1,43 @@
+.regular{
+color : grey;
+}
+.error{
+background-color: red;
+}
+.correct{
+background-color: green;
+}
+table{
+text-align: center;
+border: 2px solid #FAEC05;
+width: 40%;
+float: right;
+margin-right: 30%;
+}
+td{
+text-align: center;
+border: 2px solid #FAEC05;
+font-size: 1.5em;
+color: #4E3722;			
+}
+h1{
+color: #2319F5;
+text-align: center;
+font-size:4em;
+text-shadow: 5px 0px 2px #DA1994;
+}
+#gameOver{
+  font-family:AR DARLING;
+  font-size: 32px;
+  color:black;
+}
+#yourScore{
+  font-family:AR DARLING;
+  font-size: 36px;
+  color: #68F72F;
+}
+#yourScoreNum{
+  font-family:AR DARLING;
+  font-size: 36px;
+  color: #2D6FDD;
+}
